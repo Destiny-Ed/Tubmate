@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TubMate</string>
+    <string name="_144p_poor_quality">144P Poor Quality</string>
+    <string name="_360p_low_quality">360P Low Quality</string>
+    <string name="_480p_recommended">480P Recommended</string>
+    <string name="_720p_good_quality">720P Good Quality</string>
+    <string name="_1080p_high_quality">1080P High Quality</string>
+</resources>
